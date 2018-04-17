@@ -36,6 +36,12 @@ build/Release
 node_modules/
 jspm_packages/
 
+# Serverless
+.serverless/
+
+# Webpack
+.webpack/
+
 # Typescript v1 declaration files
 typings/
 
